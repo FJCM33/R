@@ -3,7 +3,7 @@
 numero <- 10
 nombre <- "Javier Cerrudo"
  
-#Utiliza las funciones class e is.numeric para determinar el tipo de dato de numero
+#Utiliza las funciones class e is.numeric para determinar el tipo de dato de numero.
 
 class(numero)
 is.numeric(numero)
